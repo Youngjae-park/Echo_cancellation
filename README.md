@@ -14,5 +14,6 @@ There is `requirements.txt`
 
 `$ python main_2.py`
 If you need to change hyperparameters like mu and delta, you can change it in main_2.py
+
 ------------
 #####All of codes and README.md is written for practice. It may have many errors.
