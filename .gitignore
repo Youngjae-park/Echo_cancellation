@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+
+bin/
+lib/
+__pycache__
+*.wav
+*.pdf
