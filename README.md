@@ -17,5 +17,9 @@ There is `requirements.txt`
 `$ python main_2.py`
 If you need to change hyperparameters like mu and delta, you can change it in `main_2.py`
 
+## About main_2.py
+
+the final version of `main_2.py` is possible to save `.wav` file and graph of desired input and error signal and Ensemble Average Error.  
+
 ------------
 ##### All of codes and README.md is written for practice. It may have many errors.
